@@ -1,0 +1,47 @@
+{
+ "pool": {
+  "asset": "ETH.ETH",
+  "short_code": "e",
+  "status": "Available",
+  "pending_inbound_asset": "1584000",
+  "pending_inbound_rune": "1000000",
+  "balance_asset": "183800032508",
+  "balance_rune": "692597111160468",
+  "asset_tor_price": "241930673520",
+  "pool_units": "243475874027843",
+  "LP_units": "62515507836895",
+  "synth_units": "180960366190948",
+  "synth_supply": "273214102394",
+  "savers_depth": "270839863332",
+  "savers_units": "244801350699",
+  "savers_fill_bps": "0",
+  "savers_capacity_remaining": "0",
+  "synth_mint_paused": true,
+  "synth_supply_remaining": "0",
+  "derived_depth_bps": "10000",
+  "trading_halted": false,
+  "volume_rune": "1771344394362219",
+  "volume_asset": "466695685462",
+  "pol_reserve_rune_deposited": "0",
+  "rolling_pool_liquidity_fee_rune": "3170158933725"
+ },
+ "lp": {
+  "asset": "ETH.ETH",
+  "rune_address": "thor12m580huhlyrs3h5pp55cttzu395pqd72q4z6lx",
+  "asset_address": "0x8edd9648bcf7995829e5fca5c253d78249337fe3",
+  "last_add_height": 7158082,
+  "units": "103826065472",
+  "pending_rune": "0",
+  "pending_asset": "0",
+  "rune_deposit_value": "231138624382",
+  "asset_deposit_value": "371053863",
+  "rune_redeem_value": "295346030879",
+  "asset_redeem_value": "78378337",
+  "luvi_deposit_value": "8919660",
+  "luvi_redeem_value": "4634012",
+  "luvi_growth_pct": "-0.480472125619137949"
+ },
+ "network": {
+  "rune_price_in_tor": "64203077"
+ }
+}

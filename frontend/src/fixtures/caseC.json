@@ -1,0 +1,46 @@
+{
+ "pool": {
+  "asset": "BSC.USDT-0X55D398326F99059FF775485246999027B3197955",
+  "status": "Available",
+  "pending_inbound_asset": "0",
+  "pending_inbound_rune": "0",
+  "balance_asset": "6190688940518",
+  "balance_rune": "9637753545132",
+  "asset_tor_price": "99948566",
+  "pool_units": "13140469398248",
+  "LP_units": "13130556137549",
+  "synth_units": "9913260699",
+  "synth_supply": "9340596826",
+  "savers_depth": "0",
+  "savers_units": "0",
+  "savers_fill_bps": "0",
+  "savers_capacity_remaining": "0",
+  "synth_mint_paused": true,
+  "synth_supply_remaining": "7419486131795",
+  "derived_depth_bps": "0",
+  "trading_halted": false,
+  "volume_rune": "116170469868561",
+  "volume_asset": "74317460059374",
+  "pol_reserve_rune_deposited": "3200897721640",
+  "rolling_pool_liquidity_fee_rune": "343575943924"
+ },
+ "lp": {
+  "asset": "BSC.USDT-0X55D398326F99059FF775485246999027B3197955",
+  "rune_address": "thor1838syktt88tk7v29vatwn2jswy8q7rj8xn7yln",
+  "asset_address": "0x3EF53bA2E033d0f8A6021Dac34Bf3ef851d7F903",
+  "last_add_height": 18527269,
+  "units": "7644030406",
+  "pending_rune": "0",
+  "pending_asset": "0",
+  "rune_deposit_value": "18058202037",
+  "asset_deposit_value": "108953943573",
+  "rune_redeem_value": "5606442122",
+  "asset_redeem_value": "3601227099",
+  "luvi_deposit_value": "580278293",
+  "luvi_redeem_value": "58782292",
+  "luvi_growth_pct": "-0.898699826084998840"
+ },
+ "network": {
+  "rune_price_in_tor": "64203077"
+ }
+}
